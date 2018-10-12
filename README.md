@@ -5,7 +5,7 @@ This is TetGen version 1.4.3 (released on September 6, 2009, updated on December
 Please see the documentation of TetGen for compiling and using TetGen.
 It is available at the following link:
 
-http://tetgen.berlios.de/index.html
+http://wias-berlin.de/software/
 
 TetGen may be freely copied, modified, and redistributed under the
 copyright notices stated in the file LICENSE.
