@@ -16,7 +16,7 @@ add_definitions(-DTETLIBRARY -DSELF_CHECK -DNDEBUG)
 set_source_files_properties(externals/src/tetgen/predicates.cxx
 	PROPERTIES COMPILE_FLAGS -O0)
 
-# Tetgen seems to crash on some geometries if compiled with O3â
+# Tetgen seems to crash on some geometries if compiled with O3
 set_source_files_properties(externals/src/tetgen/tetgen.cxx
 						PROPERTIES COMPILE_FLAGS "-O2 -w")
 
