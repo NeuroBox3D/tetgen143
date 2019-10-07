@@ -18,4 +18,4 @@ Hang Si
 January 19, 2011
 
 # Usage in ug4
-To build the tetgen tool, use cmake -Dtetgen=/path/to/tetgen, to use as a library in ug4, e.g. lib_grid specify -DTETGEN=/path/to/tetgen.
+To build the tetgen tool, use cmake `-Dtetgen=/path/to/tetgen`, to use as a library in ug4, e.g. lib_grid specify `-DTETGEN=/path/to/tetgen/`.
